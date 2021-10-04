@@ -4,6 +4,7 @@
 - Text Editor : `Google Colab` (mungkin bisa menggunakan text editor yang lain tapi saya belum pernah mencobanya)
 - Jika anda menggunakan **Google Colab** maka library otomatis sudah tersedia
 - Jika anda menjalankan program ini pada text editor local (yang terinstall di laptop anda) maka usahakan memakai **GPU Nvidia** untuk performa Tensorflow yang maksimal
+- RCNN Model : https://tfhub.dev/google/faster_rcnn/openimages_v4/inception_resnet_v2/1
 
 ## Demo
 |---|---|
