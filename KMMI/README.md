@@ -4,6 +4,7 @@
 - Folder `Project` merupakan tugas dari KMMI yang telah saya kerjakan
 - Berisi tentang metode-metode Machine Learning dan Deep Learning
 - Jika anda ingin mempelajari materi ini usahakan urut mulai dari materi `Machine Learning` terlebih dahulu setelah itu baru pelajari materi `Deep Learning`
+- Dataset yang digunakan pada materi ini kebanyakan berasal dari [Kaggle](https://www.kaggle.com/datasets)
 
 ## Urutan Pembelajaran
 (Pelajari secara urut, jika materi tidak ada di dalam folder ini maka anda bisa mencari tau di internet atau youtube)
