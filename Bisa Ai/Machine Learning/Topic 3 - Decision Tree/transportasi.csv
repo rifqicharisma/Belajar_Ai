@@ -1,0 +1,10 @@
+male,0,cheap,rendah,bus
+male,1,cheap,sedang,bus
+female,0,cheap,rendah,bus
+male,1,cheap,sedang,bus
+female,1,expensive,tinggi,car
+male,2,expensive,sedang,car
+female,2,expensive,tinggi,car
+female,1,cheap,sedang,train
+male,0,dstandard,sedang,train
+female,1,dstandard,sedang,train
